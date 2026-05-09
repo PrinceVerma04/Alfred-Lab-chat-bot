@@ -1,9 +1,12 @@
 # Alfred Chatbot
-<img width="1918" height="1021" alt="Screenshot 2026-05-01 022717" src="https://github.com/user-attachments/assets/334f42d4-2121-4496-b729-d405c958df6c" />
-<img width="1918" height="1012" alt="Screenshot 2026-05-01 022811" src="https://github.com/user-attachments/assets/b5323ac8-f521-4166-9a30-9ac2565e429f" />
+<img width="1918" height="1021" alt="Screenshot 2026-05-01 022717" src="https://github.com/user-attachments/assets/d382be93-32bf-481c-9525-28d8597650f8" />
+
+<img width="1918" height="1012" alt="Screenshot 2026-05-01 022811" src="https://github.com/user-attachments/assets/7da085cd-175d-4e70-ab6a-0cd8a1c2b9a1" />
+
 
 # Flow chart
-<img width="5131" height="5085" alt="User Interface to LangChain-2026-04-30-211724" src="https://github.com/user-attachments/assets/bcc9e936-75ab-4295-9ae8-39e72cf9c6f3" />
+
+<img width="5131" height="5085" alt="User Interface to LangChain-2026-04-30-211724" src="https://github.com/user-attachments/assets/053a8685-9f04-4539-80dc-6a0e27897228" />
 
 
 
